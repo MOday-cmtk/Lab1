@@ -1,0 +1,23 @@
+b.textI input[type = text]{
+width : 40%;
+padding : 11px 18px;
+margin: 6px 0;
+box-sizing: border-box 
+}
+
+.commentbox input[type=text]{
+width:85%;
+padding: 11px 18px;
+margin: 6px 0;
+box-sizing: border box;
+}
+
+.footer {
+position: fixed;
+left:0;
+bottom:0;
+width:100%;
+background-color: red;
+color: black;
+text-align: left;
+}
