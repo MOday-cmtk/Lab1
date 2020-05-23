@@ -16,8 +16,8 @@ box-sizing: border box;
 position: fixed;
 left:0;
 bottom:0;
-width:100%;
+width:80%
 background-color: red;
 color: black;
-text-align: left;
+text-align: middle;
 }
